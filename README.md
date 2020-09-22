@@ -1,2 +1,6 @@
-# JS-CC-001-Fibonnaci-Number
-JavaScript - this is the first cod challenge
+# JavaScript Coding Challenges
+
+List of coding challenges within JavaScipt workshop as follows;
+
+
+
